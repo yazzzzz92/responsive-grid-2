@@ -1,0 +1,43 @@
+body{ background-color: aquamarine;}
+
+.main{
+    background-color: pink;
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+}
+
+.row{
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+
+.box{
+    background-color: aquamarine;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.width-25{
+    width: 25%;
+}
+
+.width-33{
+    width: 33.333333%;
+}
+
+.width-50{
+    width: 50%;
+}
+
+.width-100{
+    width: 100%;
+}
+
+.content{
+    background-color: coral;
+    text-align: center;
+    height: 50px;
+    
+}
